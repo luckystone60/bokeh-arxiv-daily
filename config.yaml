@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "luckystone60"
+repo_name: "bokeh-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -41,31 +41,9 @@ code_checks_path: './docs/code-checks.json'
 # keywords to search, optional "categories" limit the arxiv categories (eg. cs.CV)
 # of one keyword; a top-level "categories" would apply to all keywords
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
-    "Gaussian Splatting":
-        filters: ["Gaussian Splatting", "3DGS", "2DGS", "4DGS"]
-    "3D Reconstruction":
-        filters: ["VGGT", "DUSt3R", "MASt3R",
-                  "Feed-forward 3D Reconstruction", "Feed-forward Reconstruction",
-                  "Multi-view 3D Reconstruction", "3D Foundation Model"]
-    "World Model":
-        filters: ["World Model", "World Models", "World Simulator"]
-        # "world model" is also a common term in NLP / databases etc., limit the arxiv categories
-        categories: ["cs.CV", "cs.RO", "cs.AI", "cs.LG", "cs.CL"]
-    "VLA and VLN":
-        filters: ["Vision Language Action", "Vision Language Navigation",
-                  "Vision and Language Navigation", "VLN"]
+    "DepthEstimation": 
+        filters: ["MDE", "Depth Estimation", "Geometry Estimation", "Depth Refine", "Video Depth Estimation", "Metric Depth"]
+    "Bokeh":
+        filters: ["Bokeh", "Video Bokeh"]
+    "Matting":
+        filters: ["Potrait","Matting"]
