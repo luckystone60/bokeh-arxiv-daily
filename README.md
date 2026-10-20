@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
     <li><a href=#3d-reconstruction>3D Reconstruction</a></li>
     <li><a href=#world-model>World Model</a></li>
     <li><a href=#vla-and-vln>VLA and VLN</a></li>
+    <li><a href=#depthestimation>DepthEstimation</a></li>
+    <li><a href=#bokeh>Bokeh</a></li>
+    <li><a href=#matting>Matting</a></li>
   </ol>
 </details>
 
@@ -22,14 +25,14 @@
 
 > All papers, one markdown per year and keyword.
 
-|Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[181](./docs/archive/2026/SLAM.md)|[96](./docs/archive/2026/SFM.md)|[175](./docs/archive/2026/Visual-Localization.md)|[39](./docs/archive/2026/Keypoint-Detection.md)|[51](./docs/archive/2026/Image-Matching.md)|[114](./docs/archive/2026/NeRF.md)|[10](./docs/archive/2026/Gaussian-Splatting.md)|[10](./docs/archive/2026/3D-Reconstruction.md)|[9](./docs/archive/2026/World-Model.md)|[10](./docs/archive/2026/VLA-and-VLN.md)|
-|[2025](./docs/archive/2025/README.md)|[507](./docs/archive/2025/SLAM.md)|[647](./docs/archive/2025/SFM.md)|[1845](./docs/archive/2025/Visual-Localization.md)|[262](./docs/archive/2025/Keypoint-Detection.md)|[1066](./docs/archive/2025/Image-Matching.md)|[366](./docs/archive/2025/NeRF.md)|||||
-|[2024](./docs/archive/2024/README.md)|[317](./docs/archive/2024/SLAM.md)|[163](./docs/archive/2024/SFM.md)|[378](./docs/archive/2024/Visual-Localization.md)|[67](./docs/archive/2024/Keypoint-Detection.md)|[95](./docs/archive/2024/Image-Matching.md)|[693](./docs/archive/2024/NeRF.md)|||||
-|[2023](./docs/archive/2023/README.md)|[79](./docs/archive/2023/SLAM.md)|[75](./docs/archive/2023/SFM.md)|[351](./docs/archive/2023/Visual-Localization.md)|[93](./docs/archive/2023/Keypoint-Detection.md)|[91](./docs/archive/2023/Image-Matching.md)|[583](./docs/archive/2023/NeRF.md)|||||
-|[2022](./docs/archive/2022/README.md)|[304](./docs/archive/2022/SLAM.md)|[54](./docs/archive/2022/SFM.md)|[258](./docs/archive/2022/Visual-Localization.md)|[76](./docs/archive/2022/Keypoint-Detection.md)|[70](./docs/archive/2022/Image-Matching.md)|[150](./docs/archive/2022/NeRF.md)|||||
-|[2021](./docs/archive/2021/README.md)|[51](./docs/archive/2021/SLAM.md)|[19](./docs/archive/2021/SFM.md)|[14](./docs/archive/2021/Visual-Localization.md)|[29](./docs/archive/2021/Keypoint-Detection.md)|[23](./docs/archive/2021/Image-Matching.md)||||||
+|Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|DepthEstimation|Bokeh|Matting|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|[2026](./docs/archive/2026/README.md)|[181](./docs/archive/2026/SLAM.md)|[96](./docs/archive/2026/SFM.md)|[175](./docs/archive/2026/Visual-Localization.md)|[39](./docs/archive/2026/Keypoint-Detection.md)|[51](./docs/archive/2026/Image-Matching.md)|[114](./docs/archive/2026/NeRF.md)|[10](./docs/archive/2026/Gaussian-Splatting.md)|[10](./docs/archive/2026/3D-Reconstruction.md)|[9](./docs/archive/2026/World-Model.md)|[10](./docs/archive/2026/VLA-and-VLN.md)|[10](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/Bokeh.md)|[10](./docs/archive/2026/Matting.md)|
+|[2025](./docs/archive/2025/README.md)|[507](./docs/archive/2025/SLAM.md)|[647](./docs/archive/2025/SFM.md)|[1845](./docs/archive/2025/Visual-Localization.md)|[262](./docs/archive/2025/Keypoint-Detection.md)|[1066](./docs/archive/2025/Image-Matching.md)|[366](./docs/archive/2025/NeRF.md)||||||[1](./docs/archive/2025/Bokeh.md)||
+|[2024](./docs/archive/2024/README.md)|[317](./docs/archive/2024/SLAM.md)|[163](./docs/archive/2024/SFM.md)|[378](./docs/archive/2024/Visual-Localization.md)|[67](./docs/archive/2024/Keypoint-Detection.md)|[95](./docs/archive/2024/Image-Matching.md)|[693](./docs/archive/2024/NeRF.md)||||||||
+|[2023](./docs/archive/2023/README.md)|[79](./docs/archive/2023/SLAM.md)|[75](./docs/archive/2023/SFM.md)|[351](./docs/archive/2023/Visual-Localization.md)|[93](./docs/archive/2023/Keypoint-Detection.md)|[91](./docs/archive/2023/Image-Matching.md)|[583](./docs/archive/2023/NeRF.md)||||||||
+|[2022](./docs/archive/2022/README.md)|[304](./docs/archive/2022/SLAM.md)|[54](./docs/archive/2022/SFM.md)|[258](./docs/archive/2022/Visual-Localization.md)|[76](./docs/archive/2022/Keypoint-Detection.md)|[70](./docs/archive/2022/Image-Matching.md)|[150](./docs/archive/2022/NeRF.md)||||||||
+|[2021](./docs/archive/2021/README.md)|[51](./docs/archive/2021/SLAM.md)|[19](./docs/archive/2021/SFM.md)|[14](./docs/archive/2021/Visual-Localization.md)|[29](./docs/archive/2021/Keypoint-Detection.md)|[23](./docs/archive/2021/Image-Matching.md)|||||||||
 
 ## SLAM
 
@@ -238,7 +241,7 @@
 
 > Showing the latest 200 of 1439 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## SFM
 
@@ -447,7 +450,7 @@
 
 > Showing the latest 200 of 1054 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -656,7 +659,7 @@
 
 > Showing the latest 200 of 3021 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -865,7 +868,7 @@
 
 > Showing the latest 200 of 566 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1074,7 +1077,7 @@
 
 > Showing the latest 200 of 1396 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## NeRF
 
@@ -1283,7 +1286,7 @@
 
 > Showing the latest 200 of 1906 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -1300,7 +1303,7 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|**[link](https://github.com/POSE-Lab/novasplat)**|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -1317,7 +1320,7 @@
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
 |**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960](http://arxiv.org/abs/2610.10960)|**[link](https://github.com/Burningdust21/LVSPM)**|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## World Model
 
@@ -1333,7 +1336,7 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## VLA and VLN
 
@@ -1350,7 +1353,58 @@
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|null|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104](http://arxiv.org/abs/2610.13104)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+
+## DepthEstimation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-10-19**|**Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos**|Tong Zhao et.al.|[2610.26585](http://arxiv.org/abs/2610.26585)|null|
+|**2026-10-17**|**IntriAdapt: Generalizable Intrinsic-Guided Test-Time Adaptation for Metric Geometry Estimation**|Jiaxing Chen et.al.|[2610.24607](http://arxiv.org/abs/2610.24607)|null|
+|**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|null|
+|**2026-10-16**|**Persistent Planar Memory for Video World Models**|Yuze He et.al.|[2610.23795](http://arxiv.org/abs/2610.23795)|**[link](https://github.com/robbyant-research/PPMem)**|
+|**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
+|**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600](http://arxiv.org/abs/2610.23600)|**[link](https://github.com/mengtanZ/MaSS)**|
+|**2026-10-16**|**ReVision: Reprogramming Image Generators for Dense Visual Perception**|Yitong Yang et.al.|[2610.23533](http://arxiv.org/abs/2610.23533)|null|
+|**2026-10-16**|**How Murky Before a VLM Knows It Cannot See? Accuracy, Confidence and Abstention on a Physical Visibility Axis**|Mochamad Rizal Fauzan et.al.|[2610.22981](http://arxiv.org/abs/2610.22981)|null|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
+|**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
+
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+
+## Bokeh
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-10-16**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
+|**2026-09-04**|**LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering**|Yachuan Huang et.al.|[2609.04939](http://arxiv.org/abs/2609.04939)|null|
+|**2026-07-23**|**The RealDefocus Benchmark for Defocus Deblurring**|Tim Seizinger et.al.|[2607.21078](http://arxiv.org/abs/2607.21078)|**[link](https://github.com/TimSeizinger/RealDefocus-Benchmark)**|
+|**2026-07-16**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|null|
+|**2026-06-30**|**AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer**|Xinyu Hou et.al.|[2606.31959](http://arxiv.org/abs/2606.31959)|**[link](https://github.com/itsmag11/AnyBokeh)**|
+|**2026-05-11**|**Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework**|Linxiao Shi et.al.|[2605.07429](http://arxiv.org/abs/2605.07429)|**[link](https://github.com/vivoCameraResearch/MagicBokeh)**|
+|**2026-05-06**|**The First Controllable Bokeh Rendering Challenge at NTIRE 2026**|Tim Seizinger et.al.|[2605.05510](http://arxiv.org/abs/2605.05510)|null|
+|**2026-03-18**|**Generative Refocusing: Flexible Defocus Control from a Single Image**|Chun-Wei Tuan Mu et.al.|[2512.16923](http://arxiv.org/abs/2512.16923)|**[link](https://github.com/rayray9999/Genfocus)**|
+|**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|null|
+|**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
+
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+
+## Matting
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-10-19**|**VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token**|Sangbeom Lim et.al.|[2610.26857](http://arxiv.org/abs/2610.26857)|**[link](https://github.com/cvlab-kaist/VideoMaMa-PlusPlus)**|
+|**2026-10-19**|**Discovery-Probability Graph Planning for Embodied Agents in Tasks with Hidden Cooperation Requirements**|Zihuang Cai et.al.|[2610.26359](http://arxiv.org/abs/2610.26359)|**[link](https://github.com/hnu-vis/DPGP)**|
+|**2026-10-07**|**Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding**|Jiakun Fan et.al.|[2610.23935](http://arxiv.org/abs/2610.23935)|null|
+|**2026-10-11**|**K_1 of matroids**|Thor Wittich et.al.|[2610.15551](http://arxiv.org/abs/2610.15551)|null|
+|**2026-10-10**|**Stackelberg Game with Multi-Agent Transformer for ISRS-Aware Resource Re-optimization in Multi-Band Optical Networks**|Jiaxin Liu et.al.|[2610.14830](http://arxiv.org/abs/2610.14830)|null|
+|**2026-10-13**|**An Improved Inequality between the von Neumann-Jordan and James Constants**|Zhiyao Fang et.al.|[2610.13360](http://arxiv.org/abs/2610.13360)|null|
+|**2026-10-07**|**Self-organization in Chiral Gliding Filaments**|Josue Yaedalm Son et.al.|[2610.10099](http://arxiv.org/abs/2610.10099)|null|
+|**2026-10-06**|**Influence of nuclear matter properties on heavy-ion sub-barrier fusion reactions**|Ki-Seok Choi et.al.|[2610.07849](http://arxiv.org/abs/2610.07849)|null|
+|**2026-10-06**|**Scen-Opt: A Scenario Optimization Toolbox for Data-Driven Convex Programming**|Ben Wooding et.al.|[2610.07846](http://arxiv.org/abs/2610.07846)|**[link](https://github.com/Kiguli/Scen-Opt)**|
+|**2026-10-05**|**Schubert compactifications of matrix pencils**|Vincenzo Galgano et.al.|[2610.07164](http://arxiv.org/abs/2610.07164)|null|
+
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -1,5 +1,5 @@
 ## Archive 2026
-> 695 papers
+> 724 papers
 
 |Keyword|Papers|
 |---|---|
@@ -13,4 +13,7 @@
 |[3D Reconstruction](./3D-Reconstruction.md)|10|
 |[World Model](./World-Model.md)|9|
 |[VLA and VLN](./VLA-and-VLN.md)|10|
+|[DepthEstimation](./DepthEstimation.md)|10|
+|[Bokeh](./Bokeh.md)|9|
+|[Matting](./Matting.md)|10|
 
