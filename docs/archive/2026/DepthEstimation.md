@@ -1,8 +1,13 @@
 ## DepthEstimation (2026)
-> 10 papers, [archive 2026](./README.md)
+> 15 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|<span class="null">—</span>|
+|**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|<span class="null">—</span>|
+|**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|<span class="null">—</span>|
+|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|<span class="null">—</span>|
+|**2026-10-19**|**Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods**|Leaf Jiang et.al.|[2610.27199](http://arxiv.org/abs/2610.27199)|**[link](https://github.com/nodarhub/orin-depth-benchmark)**|
 |**2026-10-19**|**Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos**|Tong Zhao et.al.|[2610.26585](http://arxiv.org/abs/2610.26585)|<span class="null">—</span>|
 |**2026-10-17**|**IntriAdapt: Generalizable Intrinsic-Guided Test-Time Adaptation for Metric Geometry Estimation**|Jiaxing Chen et.al.|[2610.24607](http://arxiv.org/abs/2610.24607)|<span class="null">—</span>|
 |**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|<span class="null">—</span>|

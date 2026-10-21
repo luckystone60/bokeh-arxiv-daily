@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.10.20</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.10.21</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -27,7 +27,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|DepthEstimation|Bokeh|Matting|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[10](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[10](./archive/2026/Matting.md)|
+|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[15](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[10](./archive/2026/Matting.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)||||||[1](./archive/2025/Bokeh.md)||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)||||||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)||||||||
@@ -1339,6 +1339,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|<span class="null">—</span>|
+|**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|<span class="null">—</span>|
+|**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|<span class="null">—</span>|
+|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|<span class="null">—</span>|
+|**2026-10-19**|**Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods**|Leaf Jiang et.al.|[2610.27199](http://arxiv.org/abs/2610.27199)|**[link](https://github.com/nodarhub/orin-depth-benchmark)**|
 |**2026-10-19**|**Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos**|Tong Zhao et.al.|[2610.26585](http://arxiv.org/abs/2610.26585)|<span class="null">—</span>|
 |**2026-10-17**|**IntriAdapt: Generalizable Intrinsic-Guided Test-Time Adaptation for Metric Geometry Estimation**|Jiaxing Chen et.al.|[2610.24607](http://arxiv.org/abs/2610.24607)|<span class="null">—</span>|
 |**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|<span class="null">—</span>|
