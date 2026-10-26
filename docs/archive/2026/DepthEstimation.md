@@ -1,8 +1,12 @@
 ## DepthEstimation (2026)
-> 15 papers, [archive 2026](./README.md)
+> 19 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife**|Muhammad Aamir et.al.|[2610.31123](http://arxiv.org/abs/2610.31123)|<span class="null">—</span>|
+|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**| NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|<span class="null">—</span>|
+|**2026-10-21**|**AI-Based End-to-End Automotive Design and Software Development for SDVs**|Nenad Petrovic et.al.|[2610.29160](http://arxiv.org/abs/2610.29160)|<span class="null">—</span>|
+|**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880](http://arxiv.org/abs/2610.28880)|<span class="null">—</span>|
 |**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|<span class="null">—</span>|
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|<span class="null">—</span>|
 |**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|<span class="null">—</span>|

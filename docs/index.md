@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.10.21</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.10.26</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -27,7 +27,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|DepthEstimation|Bokeh|Matting|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[15](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[10](./archive/2026/Matting.md)|
+|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[19](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[12](./archive/2026/Matting.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)||||||[1](./archive/2025/Bokeh.md)||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)||||||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)||||||||
@@ -1339,6 +1339,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife**|Muhammad Aamir et.al.|[2610.31123](http://arxiv.org/abs/2610.31123)|<span class="null">—</span>|
+|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**| NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|<span class="null">—</span>|
+|**2026-10-21**|**AI-Based End-to-End Automotive Design and Software Development for SDVs**|Nenad Petrovic et.al.|[2610.29160](http://arxiv.org/abs/2610.29160)|<span class="null">—</span>|
+|**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880](http://arxiv.org/abs/2610.28880)|<span class="null">—</span>|
 |**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|<span class="null">—</span>|
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|<span class="null">—</span>|
 |**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|<span class="null">—</span>|
@@ -1374,6 +1378,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|**[link](https://github.com/Tencent/WeVisOne-VL)**|
+|**2026-10-21**|**Supercritical magnetic ray transforms in hyperbolic space: the complexification method from the transport-twistor lens**|François Monard et.al.|[2610.30529](http://arxiv.org/abs/2610.30529)|<span class="null">—</span>|
 |**2026-10-19**|**VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token**|Sangbeom Lim et.al.|[2610.26857](http://arxiv.org/abs/2610.26857)|**[link](https://github.com/cvlab-kaist/VideoMaMa-PlusPlus)**|
 |**2026-10-19**|**Discovery-Probability Graph Planning for Embodied Agents in Tasks with Hidden Cooperation Requirements**|Zihuang Cai et.al.|[2610.26359](http://arxiv.org/abs/2610.26359)|**[link](https://github.com/hnu-vis/DPGP)**|
 |**2026-10-07**|**Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding**|Jiakun Fan et.al.|[2610.23935](http://arxiv.org/abs/2610.23935)|<span class="null">—</span>|
