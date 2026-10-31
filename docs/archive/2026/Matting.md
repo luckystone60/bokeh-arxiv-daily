@@ -1,9 +1,14 @@
 ## Matting (2026)
-> 12 papers, [archive 2026](./README.md)
+> 17 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-22**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|**[link](https://github.com/Tencent/WeVisOne-VL)**|
+|**2026-10-27**|**Neural Simulation-Based Inference for space-time Gaussian processes**|Alexandre Loret et.al.|[2610.36855](http://arxiv.org/abs/2610.36855)|<span class="null">—</span>|
+|**2026-10-27**|**LociArt: A Unified Paradigm for Free-Style Local Video Stylization**|Yuxuan Chen et.al.|[2610.36456](http://arxiv.org/abs/2610.36456)|<span class="null">—</span>|
+|**2026-10-26**|**MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting**|Shuyun Wang et.al.|[2610.35724](http://arxiv.org/abs/2610.35724)|**[link](https://github.com/Shuyun-Wang/MatAnyone-E)**|
+|**2026-10-25**|**Acute Stroke Classification Using Asymmetric Data Standardization and Orthogonal-Focal Loss Optimized CNN-ViT Cross-Attention Fusion: A Multicenter External Validation Study**|Tansel Uyar et.al.|[2610.34529](http://arxiv.org/abs/2610.34529)|<span class="null">—</span>|
+|**2026-10-24**|**The generalized Dixmier conjecture and the two-dimensional Jacobian conjecture**|Alexey Kanel-Belov et.al.|[2610.33919](http://arxiv.org/abs/2610.33919)|<span class="null">—</span>|
+|**2026-10-24**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|**[link](https://github.com/Tencent/WeVisOne-VL)**|
 |**2026-10-21**|**Supercritical magnetic ray transforms in hyperbolic space: the complexification method from the transport-twistor lens**|François Monard et.al.|[2610.30529](http://arxiv.org/abs/2610.30529)|<span class="null">—</span>|
 |**2026-10-19**|**VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token**|Sangbeom Lim et.al.|[2610.26857](http://arxiv.org/abs/2610.26857)|**[link](https://github.com/cvlab-kaist/VideoMaMa-PlusPlus)**|
 |**2026-10-19**|**Discovery-Probability Graph Planning for Embodied Agents in Tasks with Hidden Cooperation Requirements**|Zihuang Cai et.al.|[2610.26359](http://arxiv.org/abs/2610.26359)|**[link](https://github.com/hnu-vis/DPGP)**|

@@ -1,5 +1,5 @@
 ## Archive 2026
-> 735 papers
+> 740 papers
 
 |Keyword|Papers|
 |---|---|
@@ -15,5 +15,5 @@
 |[VLA and VLN](./VLA-and-VLN.md)|10|
 |[DepthEstimation](./DepthEstimation.md)|19|
 |[Bokeh](./Bokeh.md)|9|
-|[Matting](./Matting.md)|12|
+|[Matting](./Matting.md)|17|
 
