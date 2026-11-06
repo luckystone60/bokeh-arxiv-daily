@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.01</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.06</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -27,7 +27,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|DepthEstimation|Bokeh|Matting|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[29](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[17](./archive/2026/Matting.md)|
+|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|[39](./archive/2026/DepthEstimation.md)|[9](./archive/2026/Bokeh.md)|[21](./archive/2026/Matting.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)||||||[1](./archive/2025/Bokeh.md)||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)||||||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)||||||||
@@ -1339,6 +1339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|<span class="null">—</span>|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
+|**2026-11-05**|**AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification**|Tze Ho Elden Tse et.al.|[2611.07709](http://arxiv.org/abs/2611.07709)|<span class="null">—</span>|
+|**2026-11-05**|**MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction**|Jingnan Gao et.al.|[2611.07555](http://arxiv.org/abs/2611.07555)|**[link](https://github.com/nv-tlabs/vipe)**|
+|**2026-11-04**|**Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation**|Weiduo Yuan et.al.|[2611.07229](http://arxiv.org/abs/2611.07229)|<span class="null">—</span>|
+|**2026-11-04**|**Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues**|Chibueze Praise Onyenweaku et.al.|[2611.06899](http://arxiv.org/abs/2611.06899)|<span class="null">—</span>|
+|**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|<span class="null">—</span>|
+|**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|<span class="null">—</span>|
+|**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755](http://arxiv.org/abs/2611.04755)|**[link](https://github.com/surgical-vision/imed)**|
+|**2026-11-03**|**SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation**|Jaemin Choi et.al.|[2611.04491](http://arxiv.org/abs/2611.04491)|<span class="null">—</span>|
 |**2026-10-28**|**Learning Event-based Obstacle Avoidance via Differentiable Simulation**|Chenlu Shou et.al.|[2610.38967](http://arxiv.org/abs/2610.38967)|<span class="null">—</span>|
 |**2026-10-28**|**RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model**|Xuanang Gao et.al.|[2610.38587](http://arxiv.org/abs/2610.38587)|**[link](https://github.com/xagao/RoSAMDepth)**|
 |**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|<span class="null">—</span>|
@@ -1381,13 +1391,17 @@ layout: default
 |**2026-05-11**|**Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework**|Linxiao Shi et.al.|[2605.07429](http://arxiv.org/abs/2605.07429)|**[link](https://github.com/vivoCameraResearch/MagicBokeh)**|
 |**2026-05-06**|**The First Controllable Bokeh Rendering Challenge at NTIRE 2026**|Tim Seizinger et.al.|[2605.05510](http://arxiv.org/abs/2605.05510)|<span class="null">—</span>|
 |**2026-03-18**|**Generative Refocusing: Flexible Defocus Control from a Single Image**|Chun-Wei Tuan Mu et.al.|[2512.16923](http://arxiv.org/abs/2512.16923)|**[link](https://github.com/rayray9999/Genfocus)**|
-|**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|<span class="null">—</span>|
+|**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|<span class="null">—</span>|
 
 <h2 id="matting">Matting</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|
+|**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](http://arxiv.org/abs/2611.01536)|<span class="null">—</span>|
+|**2026-10-30**|**A Preconditioned Quantum Linear Solver for Periodic Two-Phase Heat Conduction with Mesh-Independent Condition Number**|Krishnan Suresh et.al.|[2610.41690](http://arxiv.org/abs/2610.41690)|<span class="null">—</span>|
+|**2026-10-30**|**MATS: A Multi-Agent Framework for Controllable and Reflective Tumor Synthesis**|Zhongnan Shi et.al.|[2610.41159](http://arxiv.org/abs/2610.41159)|<span class="null">—</span>|
 |**2026-10-27**|**Neural Simulation-Based Inference for space-time Gaussian processes**|Alexandre Loret et.al.|[2610.36855](http://arxiv.org/abs/2610.36855)|<span class="null">—</span>|
 |**2026-10-27**|**LociArt: A Unified Paradigm for Free-Style Local Video Stylization**|Yuxuan Chen et.al.|[2610.36456](http://arxiv.org/abs/2610.36456)|<span class="null">—</span>|
 |**2026-10-26**|**MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting**|Shuyun Wang et.al.|[2610.35724](http://arxiv.org/abs/2610.35724)|**[link](https://github.com/Shuyun-Wang/MatAnyone-E)**|

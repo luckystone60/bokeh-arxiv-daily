@@ -1,8 +1,12 @@
 ## Matting (2026)
-> 17 papers, [archive 2026](./README.md)
+> 21 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|
+|**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](http://arxiv.org/abs/2611.01536)|<span class="null">—</span>|
+|**2026-10-30**|**A Preconditioned Quantum Linear Solver for Periodic Two-Phase Heat Conduction with Mesh-Independent Condition Number**|Krishnan Suresh et.al.|[2610.41690](http://arxiv.org/abs/2610.41690)|<span class="null">—</span>|
+|**2026-10-30**|**MATS: A Multi-Agent Framework for Controllable and Reflective Tumor Synthesis**|Zhongnan Shi et.al.|[2610.41159](http://arxiv.org/abs/2610.41159)|<span class="null">—</span>|
 |**2026-10-27**|**Neural Simulation-Based Inference for space-time Gaussian processes**|Alexandre Loret et.al.|[2610.36855](http://arxiv.org/abs/2610.36855)|<span class="null">—</span>|
 |**2026-10-27**|**LociArt: A Unified Paradigm for Free-Style Local Video Stylization**|Yuxuan Chen et.al.|[2610.36456](http://arxiv.org/abs/2610.36456)|<span class="null">—</span>|
 |**2026-10-26**|**MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting**|Shuyun Wang et.al.|[2610.35724](http://arxiv.org/abs/2610.35724)|**[link](https://github.com/Shuyun-Wang/MatAnyone-E)**|

@@ -11,5 +11,5 @@
 |**2026-05-11**|**Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework**|Linxiao Shi et.al.|[2605.07429](http://arxiv.org/abs/2605.07429)|**[link](https://github.com/vivoCameraResearch/MagicBokeh)**|
 |**2026-05-06**|**The First Controllable Bokeh Rendering Challenge at NTIRE 2026**|Tim Seizinger et.al.|[2605.05510](http://arxiv.org/abs/2605.05510)|<span class="null">—</span>|
 |**2026-03-18**|**Generative Refocusing: Flexible Defocus Control from a Single Image**|Chun-Wei Tuan Mu et.al.|[2512.16923](http://arxiv.org/abs/2512.16923)|**[link](https://github.com/rayray9999/Genfocus)**|
-|**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|<span class="null">—</span>|
+|**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 
