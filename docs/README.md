@@ -9,6 +9,8 @@
 
 This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
 
+The scheduled paper update runs every 3 days. The configured topics are DepthEstimation, bokeh, matting, and relight.
+
 ## Overview
 
 This codebase is composed of the following parts:

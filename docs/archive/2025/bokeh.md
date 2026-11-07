@@ -1,4 +1,4 @@
-## Bokeh (2025)
+## bokeh (2025)
 > 1 papers, [archive 2025](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |

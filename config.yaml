@@ -43,7 +43,9 @@ code_checks_path: './docs/code-checks.json'
 keywords:
     "DepthEstimation": 
         filters: ["MDE", "Depth Estimation", "Geometry Estimation", "Depth Refine", "Video Depth Estimation", "Metric Depth"]
-    "Bokeh":
+    "bokeh":
         filters: ["Bokeh", "Video Bokeh"]
-    "Matting":
+    "matting":
         filters: ["Potrait","Matting"]
+    "relight":
+        filters: ["Relighting", "Relight", "Illumination Estimation"]

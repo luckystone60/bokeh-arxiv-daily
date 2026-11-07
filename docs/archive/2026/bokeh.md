@@ -1,4 +1,4 @@
-## Bokeh (2026)
+## bokeh (2026)
 > 9 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |

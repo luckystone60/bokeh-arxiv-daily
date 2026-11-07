@@ -1,4 +1,4 @@
-## Matting (2026)
+## matting (2026)
 > 21 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
