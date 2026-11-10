@@ -1,8 +1,18 @@
 ## DepthEstimation (2026)
-> 39 papers, [archive 2026](./README.md)
+> 49 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|<span class="null">—</span>|
+|**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|<span class="null">—</span>|
+|**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|<span class="null">—</span>|
+|**2026-11-09**|**LangDepth: Vision-Language Scene Priors for Semantic Binning and Cross-Domain Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2611.11763](http://arxiv.org/abs/2611.11763)|<span class="null">—</span>|
+|**2026-11-07**|**LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion**|Xiang Li et.al.|[2611.10729](http://arxiv.org/abs/2611.10729)|<span class="null">—</span>|
+|**2026-11-07**|**Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification**|Yizhao Peng et.al.|[2611.10518](http://arxiv.org/abs/2611.10518)|<span class="null">—</span>|
+|**2026-11-07**|**ClearForm: Shared-Surface Gaussian Splatting for Transparent and Opaque Scenes**|Hajeong Lee et.al.|[2611.10370](http://arxiv.org/abs/2611.10370)|<span class="null">—</span>|
+|**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|<span class="null">—</span>|
+|**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|<span class="null">—</span>|
+|**2026-11-05**|**Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage**|Maximilian Jansen et.al.|[2611.08782](http://arxiv.org/abs/2611.08782)|<span class="null">—</span>|
 |**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|<span class="null">—</span>|
 |**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
 |**2026-11-05**|**AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification**|Tze Ho Elden Tse et.al.|[2611.07709](http://arxiv.org/abs/2611.07709)|<span class="null">—</span>|

@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.07</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.10</p>
 
 <nav class="toc">
 <a href="#depthestimation">DepthEstimation</a>
 <a href="#bokeh">bokeh</a>
 <a href="#matting">matting</a>
+<a href="#relight">relight</a>
 <a href="#archive" class="archive">Archive</a>
 </nav>
 
@@ -15,15 +16,25 @@ layout: default
 
 > All papers, one markdown per year and keyword.
 
-|Year|DepthEstimation|bokeh|matting|
-|---|---|---|---|
-|[2026](./archive/2026/README.md)|[39](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[21](./archive/2026/matting.md)|
-|[2025](./archive/2025/README.md)||[1](./archive/2025/bokeh.md)||
+|Year|DepthEstimation|bokeh|matting|relight|
+|---|---|---|---|---|
+|[2026](./archive/2026/README.md)|[49](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[22](./archive/2026/matting.md)|[10](./archive/2026/relight.md)|
+|[2025](./archive/2025/README.md)||[1](./archive/2025/bokeh.md)|||
 
 <h2 id="depthestimation">DepthEstimation</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|<span class="null">—</span>|
+|**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|<span class="null">—</span>|
+|**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|<span class="null">—</span>|
+|**2026-11-09**|**LangDepth: Vision-Language Scene Priors for Semantic Binning and Cross-Domain Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2611.11763](http://arxiv.org/abs/2611.11763)|<span class="null">—</span>|
+|**2026-11-07**|**LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion**|Xiang Li et.al.|[2611.10729](http://arxiv.org/abs/2611.10729)|<span class="null">—</span>|
+|**2026-11-07**|**Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification**|Yizhao Peng et.al.|[2611.10518](http://arxiv.org/abs/2611.10518)|<span class="null">—</span>|
+|**2026-11-07**|**ClearForm: Shared-Surface Gaussian Splatting for Transparent and Opaque Scenes**|Hajeong Lee et.al.|[2611.10370](http://arxiv.org/abs/2611.10370)|<span class="null">—</span>|
+|**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|<span class="null">—</span>|
+|**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|<span class="null">—</span>|
+|**2026-11-05**|**Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage**|Maximilian Jansen et.al.|[2611.08782](http://arxiv.org/abs/2611.08782)|<span class="null">—</span>|
 |**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|<span class="null">—</span>|
 |**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
 |**2026-11-05**|**AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification**|Tze Ho Elden Tse et.al.|[2611.07709](http://arxiv.org/abs/2611.07709)|<span class="null">—</span>|
@@ -64,8 +75,6 @@ layout: default
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|<span class="null">—</span>|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|<span class="null">—</span>|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
-
 <h2 id="bokeh">bokeh</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -81,12 +90,11 @@ layout: default
 |**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|<span class="null">—</span>|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
-
 <h2 id="matting">matting</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|<span class="null">—</span>|
 |**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|
 |**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](http://arxiv.org/abs/2611.01536)|<span class="null">—</span>|
 |**2026-10-30**|**A Preconditioned Quantum Linear Solver for Periodic Two-Phase Heat Conduction with Mesh-Independent Condition Number**|Krishnan Suresh et.al.|[2610.41690](http://arxiv.org/abs/2610.41690)|<span class="null">—</span>|
@@ -109,7 +117,20 @@ layout: default
 |**2026-10-06**|**Scen-Opt: A Scenario Optimization Toolbox for Data-Driven Convex Programming**|Ben Wooding et.al.|[2610.07846](http://arxiv.org/abs/2610.07846)|**[link](https://github.com/Kiguli/Scen-Opt)**|
 |**2026-10-05**|**Schubert compactifications of matrix pencils**|Vincenzo Galgano et.al.|[2610.07164](http://arxiv.org/abs/2610.07164)|<span class="null">—</span>|
 
-<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
+<h2 id="relight">relight</h2>
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-08**|**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting**|Taoming Liu et.al.|[2611.11210](http://arxiv.org/abs/2611.11210)|<span class="null">—</span>|
+|**2026-11-07**|**ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image**|Yixiao Chen et.al.|[2611.10562](http://arxiv.org/abs/2611.10562)|<span class="null">—</span>|
+|**2026-11-05**|**Integrating Learned Priors through Prior-Space Reparameterization for Physically Based Inverse Rendering**|Hun Hwangbo et.al.|[2611.07573](http://arxiv.org/abs/2611.07573)|<span class="null">—</span>|
+|**2026-11-04**|**FlashRelight: Portrait Video Relighting with Dynamic Lighting**|Jiahui Sheng et.al.|[2611.06355](http://arxiv.org/abs/2611.06355)|**[link](https://github.com/vivoCameraResearch/FlashRelight)**|
+|**2026-11-01**|**LUMEN: Geometry-Guided Diffusion Model for Spatially-Varying HDR Illumination Estimation**|Hongze Chen et.al.|[2611.01823](http://arxiv.org/abs/2611.01823)|<span class="null">—</span>|
+|**2026-10-22**|**GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis**|Henglei Lv et.al.|[2610.30619](http://arxiv.org/abs/2610.30619)|<span class="null">—</span>|
+|**2026-10-22**|**JointLight: Human-Centric Video Relighting with Asynchronous RGB-Irradiance Joint Modeling**|Henglei Lv et.al.|[2610.29780](http://arxiv.org/abs/2610.29780)|<span class="null">—</span>|
+|**2026-10-19**|**RxGS: Relightable Gaussian Stylization via BRDF Decomposition**|Wanrong Hong et.al.|[2610.25681](http://arxiv.org/abs/2610.25681)|<span class="null">—</span>|
+|**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[2610.22958](http://arxiv.org/abs/2610.22958)|<span class="null">—</span>|
+|**2026-10-15**|**SUPRA-TEX: 3D Generation with Super-Aligned Texture**|Chen Yang et.al.|[2610.22352](http://arxiv.org/abs/2610.22352)|**[link](https://github.com/Supra-3D/SUPRA-Tex)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -1,8 +1,9 @@
 ## matting (2026)
-> 21 papers, [archive 2026](./README.md)
+> 22 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|<span class="null">—</span>|
 |**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|
 |**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](http://arxiv.org/abs/2611.01536)|<span class="null">—</span>|
 |**2026-10-30**|**A Preconditioned Quantum Linear Solver for Periodic Two-Phase Heat Conduction with Mesh-Independent Condition Number**|Krishnan Suresh et.al.|[2610.41690](http://arxiv.org/abs/2610.41690)|<span class="null">—</span>|
