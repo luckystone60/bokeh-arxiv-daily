@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.10</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.13</p>
 
 <nav class="toc">
 <a href="#depthestimation">DepthEstimation</a>
@@ -18,13 +18,20 @@ layout: default
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[49](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[22](./archive/2026/matting.md)|[10](./archive/2026/relight.md)|
+|[2026](./archive/2026/README.md)|[56](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[22](./archive/2026/matting.md)|[13](./archive/2026/relight.md)|
 |[2025](./archive/2025/README.md)||[1](./archive/2025/bokeh.md)|||
 
 <h2 id="depthestimation">DepthEstimation</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318](http://arxiv.org/abs/2611.17318)|<span class="null">—</span>|
+|**2026-11-11**|**Iris-Z: Scaling One Generative Model Past Specialist Geometry Models**|Alejandro Cañada et.al.|[2611.16010](http://arxiv.org/abs/2611.16010)|**[link](https://github.com/speridlabs/iris-z-sdk)**|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937](http://arxiv.org/abs/2611.15937)|<span class="null">—</span>|
+|**2026-11-11**|**Open Vision Banana: A Fully Open Recipe for Generative Visual Perception**|Arpit Jadon et.al.|[2611.15844](http://arxiv.org/abs/2611.15844)|<span class="null">—</span>|
+|**2026-11-11**|**Multi-View 3D Reconstruction Using V-JEPA Features**|Anwar Shamim et.al.|[2611.15143](http://arxiv.org/abs/2611.15143)|**[link](https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features)**|
+|**2026-11-11**|**Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion**|Dimitrios Chatziparaschis et.al.|[2611.14958](http://arxiv.org/abs/2611.14958)|<span class="null">—</span>|
+|**2026-11-10**|**UGG: Unified Generative Geometry Model**|Amani Kiruga et.al.|[2611.14440](http://arxiv.org/abs/2611.14440)|<span class="null">—</span>|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|<span class="null">—</span>|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|<span class="null">—</span>|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|<span class="null">—</span>|
@@ -121,6 +128,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|<span class="null">—</span>|
+|**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
+|**2026-11-10**|**Deformable Texture Maps: Compiling Dynamic Microgeometry into Neural Textures**|Antonio Arian Silaghi et.al.|[2611.13677](http://arxiv.org/abs/2611.13677)|<span class="null">—</span>|
 |**2026-11-08**|**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting**|Taoming Liu et.al.|[2611.11210](http://arxiv.org/abs/2611.11210)|<span class="null">—</span>|
 |**2026-11-07**|**ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image**|Yixiao Chen et.al.|[2611.10562](http://arxiv.org/abs/2611.10562)|<span class="null">—</span>|
 |**2026-11-05**|**Integrating Learned Priors through Prior-Space Reparameterization for Physically Based Inverse Rendering**|Hun Hwangbo et.al.|[2611.07573](http://arxiv.org/abs/2611.07573)|<span class="null">—</span>|

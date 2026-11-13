@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,20 @@
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[49](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[22](./docs/archive/2026/matting.md)|[10](./docs/archive/2026/relight.md)|
+|[2026](./docs/archive/2026/README.md)|[56](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[22](./docs/archive/2026/matting.md)|[13](./docs/archive/2026/relight.md)|
 |[2025](./docs/archive/2025/README.md)||[1](./docs/archive/2025/bokeh.md)|||
 
 ## DepthEstimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318](http://arxiv.org/abs/2611.17318)|null|
+|**2026-11-11**|**Iris-Z: Scaling One Generative Model Past Specialist Geometry Models**|Alejandro Cañada et.al.|[2611.16010](http://arxiv.org/abs/2611.16010)|**[link](https://github.com/speridlabs/iris-z-sdk)**|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937](http://arxiv.org/abs/2611.15937)|null|
+|**2026-11-11**|**Open Vision Banana: A Fully Open Recipe for Generative Visual Perception**|Arpit Jadon et.al.|[2611.15844](http://arxiv.org/abs/2611.15844)|null|
+|**2026-11-11**|**Multi-View 3D Reconstruction Using V-JEPA Features**|Anwar Shamim et.al.|[2611.15143](http://arxiv.org/abs/2611.15143)|**[link](https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features)**|
+|**2026-11-11**|**Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion**|Dimitrios Chatziparaschis et.al.|[2611.14958](http://arxiv.org/abs/2611.14958)|null|
+|**2026-11-10**|**UGG: Unified Generative Geometry Model**|Amani Kiruga et.al.|[2611.14440](http://arxiv.org/abs/2611.14440)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|null|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|null|
@@ -75,7 +82,7 @@
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## bokeh
 
@@ -92,7 +99,7 @@
 |**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## matting
 
@@ -121,12 +128,15 @@
 |**2026-10-06**|**Scen-Opt: A Scenario Optimization Toolbox for Data-Driven Convex Programming**|Ben Wooding et.al.|[2610.07846](http://arxiv.org/abs/2610.07846)|**[link](https://github.com/Kiguli/Scen-Opt)**|
 |**2026-10-05**|**Schubert compactifications of matrix pencils**|Vincenzo Galgano et.al.|[2610.07164](http://arxiv.org/abs/2610.07164)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## relight
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|null|
+|**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|null|
+|**2026-11-10**|**Deformable Texture Maps: Compiling Dynamic Microgeometry into Neural Textures**|Antonio Arian Silaghi et.al.|[2611.13677](http://arxiv.org/abs/2611.13677)|null|
 |**2026-11-08**|**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting**|Taoming Liu et.al.|[2611.11210](http://arxiv.org/abs/2611.11210)|null|
 |**2026-11-07**|**ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image**|Yixiao Chen et.al.|[2611.10562](http://arxiv.org/abs/2611.10562)|null|
 |**2026-11-05**|**Integrating Learned Priors through Prior-Space Reparameterization for Physically Based Inverse Rendering**|Hun Hwangbo et.al.|[2611.07573](http://arxiv.org/abs/2611.07573)|null|
@@ -138,7 +148,7 @@
 |**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[2610.22958](http://arxiv.org/abs/2610.22958)|null|
 |**2026-10-15**|**SUPRA-TEX: 3D Generation with Super-Aligned Texture**|Chen Yang et.al.|[2610.22352](http://arxiv.org/abs/2610.22352)|**[link](https://github.com/Supra-3D/SUPRA-Tex)**|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

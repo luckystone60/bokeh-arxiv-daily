@@ -1,8 +1,11 @@
 ## relight (2026)
-> 10 papers, [archive 2026](./README.md)
+> 13 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|<span class="null">—</span>|
+|**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
+|**2026-11-10**|**Deformable Texture Maps: Compiling Dynamic Microgeometry into Neural Textures**|Antonio Arian Silaghi et.al.|[2611.13677](http://arxiv.org/abs/2611.13677)|<span class="null">—</span>|
 |**2026-11-08**|**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting**|Taoming Liu et.al.|[2611.11210](http://arxiv.org/abs/2611.11210)|<span class="null">—</span>|
 |**2026-11-07**|**ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image**|Yixiao Chen et.al.|[2611.10562](http://arxiv.org/abs/2611.10562)|<span class="null">—</span>|
 |**2026-11-05**|**Integrating Learned Priors through Prior-Space Reparameterization for Physically Based Inverse Rendering**|Hun Hwangbo et.al.|[2611.07573](http://arxiv.org/abs/2611.07573)|<span class="null">—</span>|
