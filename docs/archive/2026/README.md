@@ -1,10 +1,10 @@
 ## Archive 2026
-> 100 papers
+> 107 papers
 
 |Keyword|Papers|
 |---|---|
-|[DepthEstimation](./DepthEstimation.md)|56|
+|[DepthEstimation](./DepthEstimation.md)|62|
 |[bokeh](./bokeh.md)|9|
 |[matting](./matting.md)|22|
-|[relight](./relight.md)|13|
+|[relight](./relight.md)|14|
 

@@ -1,8 +1,9 @@
 ## relight (2026)
-> 13 papers, [archive 2026](./README.md)
+> 14 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438](http://arxiv.org/abs/2611.17438)|<span class="null">—</span>|
 |**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|<span class="null">—</span>|
 |**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
 |**2026-11-10**|**Deformable Texture Maps: Compiling Dynamic Microgeometry into Neural Textures**|Antonio Arian Silaghi et.al.|[2611.13677](http://arxiv.org/abs/2611.13677)|<span class="null">—</span>|
