@@ -1,8 +1,18 @@
 ## DepthEstimation (2026)
-> 62 papers, [archive 2026](./README.md)
+> 72 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|<span class="null">—</span>|
+|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007](http://arxiv.org/abs/2611.24007)|<span class="null">—</span>|
+|**2026-11-18**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|<span class="null">—</span>|
+|**2026-11-17**|**GameRealm: Grounding Visual Learning in Interactive Games**|Weiguang Zhao et.al.|[2611.23140](http://arxiv.org/abs/2611.23140)|**[link](https://github.com/weiguangzhao/GameRealm)**|
+|**2026-11-17**|**Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition**|Zhirong Su et.al.|[2611.22434](http://arxiv.org/abs/2611.22434)|<span class="null">—</span>|
+|**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|<span class="null">—</span>|
+|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|<span class="null">—</span>|
+|**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163](http://arxiv.org/abs/2611.21163)|<span class="null">—</span>|
+|**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|<span class="null">—</span>|
+|**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|<span class="null">—</span>|
 |**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|<span class="null">—</span>|
 |**2026-11-13**|**Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer**|Rabeya Noor et.al.|[2611.17903](http://arxiv.org/abs/2611.17903)|**[link](https://github.com/rabeyanoor/zoom-equivariance)**|
 |**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|<span class="null">—</span>|

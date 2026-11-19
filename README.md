@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,23 @@
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[62](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[22](./docs/archive/2026/matting.md)|[14](./docs/archive/2026/relight.md)|
+|[2026](./docs/archive/2026/README.md)|[72](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[23](./docs/archive/2026/matting.md)|[19](./docs/archive/2026/relight.md)|
 |[2025](./docs/archive/2025/README.md)||[1](./docs/archive/2025/bokeh.md)|||
 
 ## DepthEstimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
+|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007](http://arxiv.org/abs/2611.24007)|null|
+|**2026-11-18**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|null|
+|**2026-11-17**|**GameRealm: Grounding Visual Learning in Interactive Games**|Weiguang Zhao et.al.|[2611.23140](http://arxiv.org/abs/2611.23140)|**[link](https://github.com/weiguangzhao/GameRealm)**|
+|**2026-11-17**|**Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition**|Zhirong Su et.al.|[2611.22434](http://arxiv.org/abs/2611.22434)|null|
+|**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|null|
+|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|null|
+|**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163](http://arxiv.org/abs/2611.21163)|null|
+|**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|null|
+|**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|null|
 |**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
 |**2026-11-13**|**Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer**|Rabeya Noor et.al.|[2611.17903](http://arxiv.org/abs/2611.17903)|**[link](https://github.com/rabeyanoor/zoom-equivariance)**|
 |**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|null|
@@ -88,13 +98,13 @@
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## bokeh
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-16**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
+|**2026-11-18**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
 |**2026-09-04**|**LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering**|Yachuan Huang et.al.|[2609.04939](http://arxiv.org/abs/2609.04939)|null|
 |**2026-07-23**|**The RealDefocus Benchmark for Defocus Deblurring**|Tim Seizinger et.al.|[2607.21078](http://arxiv.org/abs/2607.21078)|**[link](https://github.com/TimSeizinger/RealDefocus-Benchmark)**|
 |**2026-07-16**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|null|
@@ -105,12 +115,13 @@
 |**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## matting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Belavin--Drinfeld bivectors and Poisson deformations**|Zihang Liu et.al.|[2611.21263](http://arxiv.org/abs/2611.21263)|null|
 |**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|null|
 |**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|null|
 |**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](http://arxiv.org/abs/2611.01536)|null|
@@ -134,12 +145,17 @@
 |**2026-10-06**|**Scen-Opt: A Scenario Optimization Toolbox for Data-Driven Convex Programming**|Ben Wooding et.al.|[2610.07846](http://arxiv.org/abs/2610.07846)|**[link](https://github.com/Kiguli/Scen-Opt)**|
 |**2026-10-05**|**Schubert compactifications of matrix pencils**|Vincenzo Galgano et.al.|[2610.07164](http://arxiv.org/abs/2610.07164)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## relight
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|null|
+|**2026-11-18**|**Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning**|Zeting Luo et.al.|[2611.24565](http://arxiv.org/abs/2611.24565)|**[link](https://github.com/lyf1212/LightHarness_Code)**|
+|**2026-11-16**|**Where Should the Lamp Go? Ambient-Aware Lamp Placement for Portraits**|Yuyan Chen et.al.|[2611.22005](http://arxiv.org/abs/2611.22005)|null|
+|**2026-11-16**|**FaceRiff: Data-Efficient Unified Text-to-3D Face Asset Synthesis via Geometric Conditioning**|Elly Akhoundi et.al.|[2611.21867](http://arxiv.org/abs/2611.21867)|null|
+|**2026-11-16**|**One Code per Material: Neural Representation and Generation of Measured BTFs**|Fazilet Gokbudak et.al.|[2611.20948](http://arxiv.org/abs/2611.20948)|null|
 |**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438](http://arxiv.org/abs/2611.17438)|null|
 |**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|null|
 |**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|null|
@@ -155,7 +171,7 @@
 |**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[2610.22958](http://arxiv.org/abs/2610.22958)|null|
 |**2026-10-15**|**SUPRA-TEX: 3D Generation with Super-Aligned Texture**|Chen Yang et.al.|[2610.22352](http://arxiv.org/abs/2610.22352)|**[link](https://github.com/Supra-3D/SUPRA-Tex)**|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

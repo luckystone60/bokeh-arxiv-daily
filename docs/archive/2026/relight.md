@@ -1,8 +1,13 @@
 ## relight (2026)
-> 14 papers, [archive 2026](./README.md)
+> 19 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|<span class="null">—</span>|
+|**2026-11-18**|**Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning**|Zeting Luo et.al.|[2611.24565](http://arxiv.org/abs/2611.24565)|**[link](https://github.com/lyf1212/LightHarness_Code)**|
+|**2026-11-16**|**Where Should the Lamp Go? Ambient-Aware Lamp Placement for Portraits**|Yuyan Chen et.al.|[2611.22005](http://arxiv.org/abs/2611.22005)|<span class="null">—</span>|
+|**2026-11-16**|**FaceRiff: Data-Efficient Unified Text-to-3D Face Asset Synthesis via Geometric Conditioning**|Elly Akhoundi et.al.|[2611.21867](http://arxiv.org/abs/2611.21867)|<span class="null">—</span>|
+|**2026-11-16**|**One Code per Material: Neural Representation and Generation of Measured BTFs**|Fazilet Gokbudak et.al.|[2611.20948](http://arxiv.org/abs/2611.20948)|<span class="null">—</span>|
 |**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438](http://arxiv.org/abs/2611.17438)|<span class="null">—</span>|
 |**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|<span class="null">—</span>|
 |**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
