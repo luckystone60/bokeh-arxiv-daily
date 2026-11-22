@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.19</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.22</p>
 
 <nav class="toc">
 <a href="#depthestimation">DepthEstimation</a>
@@ -18,16 +18,20 @@ layout: default
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[72](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[23](./archive/2026/matting.md)|[19](./archive/2026/relight.md)|
+|[2026](./archive/2026/README.md)|[76](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[23](./archive/2026/matting.md)|[21](./archive/2026/relight.md)|
 |[2025](./archive/2025/README.md)||[1](./archive/2025/bokeh.md)|||
 
 <h2 id="depthestimation">DepthEstimation</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|**[link](https://github.com/apple-aiml-research/ml-depth-pro-2)**|
+|**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|<span class="null">—</span>|
+|**2026-11-19**|**Less Than Meets the Eye: Action-Set Identifiability and Principled Abstention for 3D Physical Geometry**|Reshad Ul Karim et.al.|[2611.26056](http://arxiv.org/abs/2611.26056)|<span class="null">—</span>|
+|**2026-11-19**|**Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping**|Fahira Afzal Maken et.al.|[2611.25445](http://arxiv.org/abs/2611.25445)|<span class="null">—</span>|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|<span class="null">—</span>|
 |**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007](http://arxiv.org/abs/2611.24007)|<span class="null">—</span>|
-|**2026-11-18**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|<span class="null">—</span>|
+|**2026-11-19**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|<span class="null">—</span>|
 |**2026-11-17**|**GameRealm: Grounding Visual Learning in Interactive Games**|Weiguang Zhao et.al.|[2611.23140](http://arxiv.org/abs/2611.23140)|**[link](https://github.com/weiguangzhao/GameRealm)**|
 |**2026-11-17**|**Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition**|Zhirong Su et.al.|[2611.22434](http://arxiv.org/abs/2611.22434)|<span class="null">—</span>|
 |**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|<span class="null">—</span>|
@@ -145,6 +149,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](http://arxiv.org/abs/2611.25523)|<span class="null">—</span>|
+|**2026-11-19**|**VideoRNG: Relightable Neural Gaussians from Generative Video Models**|Bowen Xue et.al.|[2611.25338](http://arxiv.org/abs/2611.25338)|<span class="null">—</span>|
 |**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|<span class="null">—</span>|
 |**2026-11-18**|**Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning**|Zeting Luo et.al.|[2611.24565](http://arxiv.org/abs/2611.24565)|**[link](https://github.com/lyf1212/LightHarness_Code)**|
 |**2026-11-16**|**Where Should the Lamp Go? Ambient-Aware Lamp Placement for Portraits**|Yuyan Chen et.al.|[2611.22005](http://arxiv.org/abs/2611.22005)|<span class="null">—</span>|
@@ -152,7 +158,7 @@ layout: default
 |**2026-11-16**|**One Code per Material: Neural Representation and Generation of Measured BTFs**|Fazilet Gokbudak et.al.|[2611.20948](http://arxiv.org/abs/2611.20948)|<span class="null">—</span>|
 |**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438](http://arxiv.org/abs/2611.17438)|<span class="null">—</span>|
 |**2026-11-12**|**Neural Render Proxies for Interactive and Differentiable Lighting**|Sergio Sancho et.al.|[2611.17185](http://arxiv.org/abs/2611.17185)|<span class="null">—</span>|
-|**2026-11-12**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
+|**2026-11-18**|**Learning the Missing Derivative: Neural Multiple-Scattering Operators for Inverse Volume Rendering**|Sipeng Chen et.al.|[2611.16650](http://arxiv.org/abs/2611.16650)|<span class="null">—</span>|
 |**2026-11-10**|**Deformable Texture Maps: Compiling Dynamic Microgeometry into Neural Textures**|Antonio Arian Silaghi et.al.|[2611.13677](http://arxiv.org/abs/2611.13677)|<span class="null">—</span>|
 |**2026-11-08**|**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting**|Taoming Liu et.al.|[2611.11210](http://arxiv.org/abs/2611.11210)|<span class="null">—</span>|
 |**2026-11-07**|**ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image**|Yixiao Chen et.al.|[2611.10562](http://arxiv.org/abs/2611.10562)|<span class="null">—</span>|

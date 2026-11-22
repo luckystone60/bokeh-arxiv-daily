@@ -1,11 +1,15 @@
 ## DepthEstimation (2026)
-> 72 papers, [archive 2026](./README.md)
+> 76 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|**[link](https://github.com/apple-aiml-research/ml-depth-pro-2)**|
+|**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|<span class="null">—</span>|
+|**2026-11-19**|**Less Than Meets the Eye: Action-Set Identifiability and Principled Abstention for 3D Physical Geometry**|Reshad Ul Karim et.al.|[2611.26056](http://arxiv.org/abs/2611.26056)|<span class="null">—</span>|
+|**2026-11-19**|**Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping**|Fahira Afzal Maken et.al.|[2611.25445](http://arxiv.org/abs/2611.25445)|<span class="null">—</span>|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|<span class="null">—</span>|
 |**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007](http://arxiv.org/abs/2611.24007)|<span class="null">—</span>|
-|**2026-11-18**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|<span class="null">—</span>|
+|**2026-11-19**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|<span class="null">—</span>|
 |**2026-11-17**|**GameRealm: Grounding Visual Learning in Interactive Games**|Weiguang Zhao et.al.|[2611.23140](http://arxiv.org/abs/2611.23140)|**[link](https://github.com/weiguangzhao/GameRealm)**|
 |**2026-11-17**|**Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition**|Zhirong Su et.al.|[2611.22434](http://arxiv.org/abs/2611.22434)|<span class="null">—</span>|
 |**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|<span class="null">—</span>|
