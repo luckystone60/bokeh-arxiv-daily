@@ -1,8 +1,12 @@
 ## matting (2026)
-> 23 papers, [archive 2026](./README.md)
+> 27 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|<span class="null">—</span>|
+|**2026-11-24**|**Ranges of vector measures and copies of $c_0$**|José Rodríguez et.al.|[2611.32070](http://arxiv.org/abs/2611.32070)|<span class="null">—</span>|
+|**2026-11-23**|**Visual-RFT++: Extending Visual Reinforcement Fine-Tuning to Multimodal Tool Use**|Ziyu Liu et.al.|[2611.30193](http://arxiv.org/abs/2611.30193)|**[link](https://github.com/Liuziyu77/Visual-RFT)**|
+|**2026-11-21**|**RAGA: Refreshable Animatable Gaussian Avatars from a Single Photo**|Sadia Mubashshira et.al.|[2611.29026](http://arxiv.org/abs/2611.29026)|<span class="null">—</span>|
 |**2026-11-16**|**Belavin--Drinfeld bivectors and Poisson deformations**|Zihang Liu et.al.|[2611.21263](http://arxiv.org/abs/2611.21263)|<span class="null">—</span>|
 |**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|<span class="null">—</span>|
 |**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|

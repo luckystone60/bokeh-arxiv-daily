@@ -1,8 +1,13 @@
 ## relight (2026)
-> 21 papers, [archive 2026](./README.md)
+> 26 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|<span class="null">—</span>|
+|**2026-11-23**|**GRUN: Generalized Retinex Unfolding Network for Image Restoration**|Rihan Zhang et.al.|[2611.31690](http://arxiv.org/abs/2611.31690)|<span class="null">—</span>|
+|**2026-11-23**|**NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting**|Shiyu Liang et.al.|[2611.30351](http://arxiv.org/abs/2611.30351)|<span class="null">—</span>|
+|**2026-11-23**|**Thermal-Guided Low-Light UAV Image Enhancement: A Reliability-Aware Guidance Network and a Unified Benchmark**|Zhicheng Zhao et.al.|[2611.30114](http://arxiv.org/abs/2611.30114)|**[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)**|
+|**2026-11-20**|**TSIR: Ray-Traced Triangle Splats for Inverse Rendering**|Wentao Yang et.al.|[2611.27030](http://arxiv.org/abs/2611.27030)|<span class="null">—</span>|
 |**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](http://arxiv.org/abs/2611.25523)|<span class="null">—</span>|
 |**2026-11-19**|**VideoRNG: Relightable Neural Gaussians from Generative Video Models**|Bowen Xue et.al.|[2611.25338](http://arxiv.org/abs/2611.25338)|<span class="null">—</span>|
 |**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|<span class="null">—</span>|

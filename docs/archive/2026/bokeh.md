@@ -3,7 +3,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-18**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
+|**2026-11-24**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
 |**2026-09-04**|**LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering**|Yachuan Huang et.al.|[2609.04939](http://arxiv.org/abs/2609.04939)|<span class="null">—</span>|
 |**2026-07-23**|**The RealDefocus Benchmark for Defocus Deblurring**|Tim Seizinger et.al.|[2607.21078](http://arxiv.org/abs/2607.21078)|**[link](https://github.com/TimSeizinger/RealDefocus-Benchmark)**|
 |**2026-07-16**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|<span class="null">—</span>|

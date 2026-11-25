@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.22</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.25</p>
 
 <nav class="toc">
 <a href="#depthestimation">DepthEstimation</a>
@@ -18,13 +18,23 @@ layout: default
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[76](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[23](./archive/2026/matting.md)|[21](./archive/2026/relight.md)|
+|[2026](./archive/2026/README.md)|[86](./archive/2026/DepthEstimation.md)|[9](./archive/2026/bokeh.md)|[27](./archive/2026/matting.md)|[26](./archive/2026/relight.md)|
 |[2025](./archive/2025/README.md)||[1](./archive/2025/bokeh.md)|||
 
 <h2 id="depthestimation">DepthEstimation</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|<span class="null">—</span>|
+|**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|<span class="null">—</span>|
+|**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922](http://arxiv.org/abs/2611.31922)|**[link](https://github.com/Wk-cpu-art/TANDEM)**|
+|**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|<span class="null">—</span>|
+|**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|<span class="null">—</span>|
+|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|<span class="null">—</span>|
+|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
+|**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|<span class="null">—</span>|
+|**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|<span class="null">—</span>|
+|**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507](http://arxiv.org/abs/2611.29507)|<span class="null">—</span>|
 |**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|**[link](https://github.com/apple-aiml-research/ml-depth-pro-2)**|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|<span class="null">—</span>|
 |**2026-11-19**|**Less Than Meets the Eye: Action-Set Identifiability and Principled Abstention for 3D Physical Geometry**|Reshad Ul Karim et.al.|[2611.26056](http://arxiv.org/abs/2611.26056)|<span class="null">—</span>|
@@ -106,7 +116,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-18**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
+|**2026-11-24**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297](http://arxiv.org/abs/2610.23297)|**[link](https://github.com/ming053l/FlashReFocus)**|
 |**2026-09-04**|**LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering**|Yachuan Huang et.al.|[2609.04939](http://arxiv.org/abs/2609.04939)|<span class="null">—</span>|
 |**2026-07-23**|**The RealDefocus Benchmark for Defocus Deblurring**|Tim Seizinger et.al.|[2607.21078](http://arxiv.org/abs/2607.21078)|**[link](https://github.com/TimSeizinger/RealDefocus-Benchmark)**|
 |**2026-07-16**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|<span class="null">—</span>|
@@ -121,6 +131,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|<span class="null">—</span>|
+|**2026-11-24**|**Ranges of vector measures and copies of $c_0$**|José Rodríguez et.al.|[2611.32070](http://arxiv.org/abs/2611.32070)|<span class="null">—</span>|
+|**2026-11-23**|**Visual-RFT++: Extending Visual Reinforcement Fine-Tuning to Multimodal Tool Use**|Ziyu Liu et.al.|[2611.30193](http://arxiv.org/abs/2611.30193)|**[link](https://github.com/Liuziyu77/Visual-RFT)**|
+|**2026-11-21**|**RAGA: Refreshable Animatable Gaussian Avatars from a Single Photo**|Sadia Mubashshira et.al.|[2611.29026](http://arxiv.org/abs/2611.29026)|<span class="null">—</span>|
 |**2026-11-16**|**Belavin--Drinfeld bivectors and Poisson deformations**|Zihang Liu et.al.|[2611.21263](http://arxiv.org/abs/2611.21263)|<span class="null">—</span>|
 |**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|<span class="null">—</span>|
 |**2026-11-02**|**Solutions of the space-fractional heat equation with polynomial growth: Liouville theorems and Schauder estimates**|Serena Dipierro et.al.|[2611.03840](http://arxiv.org/abs/2611.03840)|<span class="null">—</span>|
@@ -149,6 +163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Miguel Farinha et.al.|[2611.33157](http://arxiv.org/abs/2611.33157)|<span class="null">—</span>|
+|**2026-11-23**|**GRUN: Generalized Retinex Unfolding Network for Image Restoration**|Rihan Zhang et.al.|[2611.31690](http://arxiv.org/abs/2611.31690)|<span class="null">—</span>|
+|**2026-11-23**|**NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting**|Shiyu Liang et.al.|[2611.30351](http://arxiv.org/abs/2611.30351)|<span class="null">—</span>|
+|**2026-11-23**|**Thermal-Guided Low-Light UAV Image Enhancement: A Reliability-Aware Guidance Network and a Unified Benchmark**|Zhicheng Zhao et.al.|[2611.30114](http://arxiv.org/abs/2611.30114)|**[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)**|
+|**2026-11-20**|**TSIR: Ray-Traced Triangle Splats for Inverse Rendering**|Wentao Yang et.al.|[2611.27030](http://arxiv.org/abs/2611.27030)|<span class="null">—</span>|
 |**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](http://arxiv.org/abs/2611.25523)|<span class="null">—</span>|
 |**2026-11-19**|**VideoRNG: Relightable Neural Gaussians from Generative Video Models**|Bowen Xue et.al.|[2611.25338](http://arxiv.org/abs/2611.25338)|<span class="null">—</span>|
 |**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|<span class="null">—</span>|
