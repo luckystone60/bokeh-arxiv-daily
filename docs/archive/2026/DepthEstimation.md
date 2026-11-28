@@ -1,14 +1,18 @@
 ## DepthEstimation (2026)
-> 86 papers, [archive 2026](./README.md)
+> 90 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|<span class="null">—</span>|
+|**2026-11-25**|**ProManO: Beyond Sim(3) for Metric Upgrade of Feed-Forward Geometry with Visual-Inertial Anchors**|Lingxiang Hu et.al.|[2611.34480](http://arxiv.org/abs/2611.34480)|<span class="null">—</span>|
+|**2026-11-25**|**Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation**|Zeeshan Ali et.al.|[2611.34393](http://arxiv.org/abs/2611.34393)|**[link](https://github.com/Md-Zeeshan-Ali/vision-error-observatory)**|
+|**2026-11-24**|**OrdiHand-GS: Ordinal-Guided Tracking and Hand-Refined Gaussian Avatars for Digital Signers**|Mingxuan Ma et.al.|[2611.33465](http://arxiv.org/abs/2611.33465)|<span class="null">—</span>|
+|**2026-11-24**|**Synchronizing Cameras via 3D Object Relationships**|Sujong Shin et.al.|[2611.33387](http://arxiv.org/abs/2611.33387)|<span class="null">—</span>|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|**[link](https://github.com/cake-lab/FocusAnchor)**|
 |**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|<span class="null">—</span>|
 |**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922](http://arxiv.org/abs/2611.31922)|**[link](https://github.com/Wk-cpu-art/TANDEM)**|
 |**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|<span class="null">—</span>|
 |**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|<span class="null">—</span>|
-|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|<span class="null">—</span>|
+|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|**[link](https://github.com/simonwebertum/initfree-sfm)**|
 |**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|<span class="null">—</span>|
 |**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|<span class="null">—</span>|

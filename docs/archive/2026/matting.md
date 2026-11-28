@@ -1,8 +1,10 @@
 ## matting (2026)
-> 27 papers, [archive 2026](./README.md)
+> 29 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**High-Fidelity Image Matting with Pixel-Space Diffusion Transformers**|Baihan Yang et.al.|[2611.34929](http://arxiv.org/abs/2611.34929)|**[link](https://github.com/White-YC/pixelmatte)**|
+|**2026-11-25**|**X-Matte: VAE-Free Pixel-Space Flow Matching for Single-Step Image Matting**|Zanyi Wang et.al.|[2611.33874](http://arxiv.org/abs/2611.33874)|<span class="null">—</span>|
 |**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|<span class="null">—</span>|
 |**2026-11-24**|**Ranges of vector measures and copies of $c_0$**|José Rodríguez et.al.|[2611.32070](http://arxiv.org/abs/2611.32070)|<span class="null">—</span>|
 |**2026-11-23**|**Visual-RFT++: Extending Visual Reinforcement Fine-Tuning to Multimodal Tool Use**|Ziyu Liu et.al.|[2611.30193](http://arxiv.org/abs/2611.30193)|**[link](https://github.com/Liuziyu77/Visual-RFT)**|

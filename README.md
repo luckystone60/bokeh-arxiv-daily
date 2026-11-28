@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,19 +18,23 @@
 
 |Year|DepthEstimation|bokeh|matting|relight|
 |---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[86](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[27](./docs/archive/2026/matting.md)|[26](./docs/archive/2026/relight.md)|
+|[2026](./docs/archive/2026/README.md)|[90](./docs/archive/2026/DepthEstimation.md)|[9](./docs/archive/2026/bokeh.md)|[29](./docs/archive/2026/matting.md)|[26](./docs/archive/2026/relight.md)|
 |[2025](./docs/archive/2025/README.md)||[1](./docs/archive/2025/bokeh.md)|||
 
 ## DepthEstimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|null|
+|**2026-11-25**|**ProManO: Beyond Sim(3) for Metric Upgrade of Feed-Forward Geometry with Visual-Inertial Anchors**|Lingxiang Hu et.al.|[2611.34480](http://arxiv.org/abs/2611.34480)|null|
+|**2026-11-25**|**Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation**|Zeeshan Ali et.al.|[2611.34393](http://arxiv.org/abs/2611.34393)|**[link](https://github.com/Md-Zeeshan-Ali/vision-error-observatory)**|
+|**2026-11-24**|**OrdiHand-GS: Ordinal-Guided Tracking and Hand-Refined Gaussian Avatars for Digital Signers**|Mingxuan Ma et.al.|[2611.33465](http://arxiv.org/abs/2611.33465)|null|
+|**2026-11-24**|**Synchronizing Cameras via 3D Object Relationships**|Sujong Shin et.al.|[2611.33387](http://arxiv.org/abs/2611.33387)|null|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|**[link](https://github.com/cake-lab/FocusAnchor)**|
 |**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|null|
 |**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922](http://arxiv.org/abs/2611.31922)|**[link](https://github.com/Wk-cpu-art/TANDEM)**|
 |**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|null|
 |**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|null|
-|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|null|
+|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|**[link](https://github.com/simonwebertum/initfree-sfm)**|
 |**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|null|
 |**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
@@ -112,7 +116,7 @@
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## bokeh
 
@@ -129,12 +133,14 @@
 |**2026-05-25**|**Boosting Monocular Metric Depth Estimation via Bokeh Rendering**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|**[link](https://github.com/fogradio/BokehDepth)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## matting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**High-Fidelity Image Matting with Pixel-Space Diffusion Transformers**|Baihan Yang et.al.|[2611.34929](http://arxiv.org/abs/2611.34929)|**[link](https://github.com/White-YC/pixelmatte)**|
+|**2026-11-25**|**X-Matte: VAE-Free Pixel-Space Flow Matching for Single-Step Image Matting**|Zanyi Wang et.al.|[2611.33874](http://arxiv.org/abs/2611.33874)|null|
 |**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|null|
 |**2026-11-24**|**Ranges of vector measures and copies of $c_0$**|José Rodríguez et.al.|[2611.32070](http://arxiv.org/abs/2611.32070)|null|
 |**2026-11-23**|**Visual-RFT++: Extending Visual Reinforcement Fine-Tuning to Multimodal Tool Use**|Ziyu Liu et.al.|[2611.30193](http://arxiv.org/abs/2611.30193)|**[link](https://github.com/Liuziyu77/Visual-RFT)**|
@@ -163,7 +169,7 @@
 |**2026-10-06**|**Scen-Opt: A Scenario Optimization Toolbox for Data-Driven Convex Programming**|Ben Wooding et.al.|[2610.07846](http://arxiv.org/abs/2610.07846)|**[link](https://github.com/Kiguli/Scen-Opt)**|
 |**2026-10-05**|**Schubert compactifications of matrix pencils**|Vincenzo Galgano et.al.|[2610.07164](http://arxiv.org/abs/2610.07164)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## relight
 
@@ -196,7 +202,7 @@
 |**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[2610.22958](http://arxiv.org/abs/2610.22958)|null|
 |**2026-10-15**|**SUPRA-TEX: 3D Generation with Super-Aligned Texture**|Chen Yang et.al.|[2610.22352](http://arxiv.org/abs/2610.22352)|**[link](https://github.com/Supra-3D/SUPRA-Tex)**|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
